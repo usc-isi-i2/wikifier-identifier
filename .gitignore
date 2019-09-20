@@ -1,0 +1,6 @@
+*.skp
+*.swp
+*.bkp
+__pycache__
+*~
+
